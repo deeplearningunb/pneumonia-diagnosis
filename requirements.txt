@@ -1,0 +1,7 @@
+numpy
+scipy
+six
+tensorflow
+tqdm
+scikit-learn
+pandas
