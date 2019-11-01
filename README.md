@@ -14,7 +14,7 @@ As you can see, the network is able to produce a very plausible reconstruction o
 
 This particular example was produced after training the network for 3 hours on a GTX 1080 GPU, equivalent to 130,000 batches or about 10 epochs.
 
-## Reference
+## Original work
 
 A Tensorflow 2.0 implementation of David Garcia's [implementation](https://github.com/david-gpu/srez).
 
@@ -39,8 +39,24 @@ Run the following in the command line:
 
 ```docker-compose up```
 
-## References:
+## Datasets
 
-[1] [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/Murgio/Food-Recipe-CNN)
+[1] http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
 
-[2] [Inverse Cooking: Recipe Generation from Food Images](https://arxiv.org/abs/1812.06164)
+## References
+
+[1] https://arxiv.org/abs/1609.04802
+
+[2] https://paperswithcode.com/paper/improved-training-of-wasserstein-gans
+
+[3] https://paperswithcode.com/paper/photo-realistic-single-image-super-resolution
+
+[4] https://medium.com/@birla.deepak26/single-image-super-resolution-using-gans-keras-aca310f33112
+
+[5] https://towardsdatascience.com/applying-gans-to-super-resolution-59224763f960
+
+[6] https://towardsdatascience.com/srgan-a-tensorflow-implementation-49b959267c60
+
+[7] https://github.com/david-gpu/srez
+
+[8] https://github.com/jbhuang0604/SelfExSR
