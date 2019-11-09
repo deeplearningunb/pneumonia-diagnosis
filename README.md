@@ -8,6 +8,19 @@
     <img src="https://i.imgur.com/jZqpV51.png" height=300>
 </p>
 
+---
+
+## What is the problem?
+The problem is that x-ray diagnoses are reliable on humans and prone to errors. Doctors oppinions might vary and they aren`t precise.
+
+## What is the solution?
+The algorithm attemps to solve the problem above using state-of-the art machine learning techniques. The implementation will provide better data for doctors to provide their diagnoses. 
+
+There is also a possibility for the algorithm do predict and classify the suscetibility of users having pneumonia based on their chest xray images.
+
+## Who the solution will benefit?
+It will benefit the general population that does exams and want a more reliable source of diagnose.
+
 ## Kaggle dataset
 
 Content
