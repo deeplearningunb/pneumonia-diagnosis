@@ -1,9 +1,7 @@
 ---
 name: Issue template
 about: Know how you should write an issue
-title: ''
-labels: ''
-assignees: ''
+
 
 ---
 
