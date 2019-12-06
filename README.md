@@ -8,6 +8,48 @@
     <img src="https://i.imgur.com/jZqpV51.png" height=300>
 </p>
 
+## About this project
+
+We are **Software Engineering students from University of Brasilia - UnB, Brazil**.
+We take great interest in artificial inteligence and **we are excited to help the
+worldwide comunity in any way we can**. But, **for this specific project, we'd like
+to make the difference by helping doctors to diagnose whether a patient has
+pneumonia or not**.
+
+## Our main objectives
+
+As we develop this project, we want to put our aquired AI habilities  during our carrer and during our classes in practice. Also, we want to provide the open source community and our fellow students the opportunity to work in a reasonable and important project as they can become contibutors.
+
+## Our goal
+
+We'd like to make the difference by helping doctors to diagnose whether a patient has
+pneumonia or not.
+
+## The problem
+
+- Effectively diagnose pneumonia just by looking to chest x-ray images.
+
+## Our solution
+
+- Develop AI algorithms using artificial neural networks to help diagnose pneumonia from x-ray images of a patient's chest.
+
+## Members and stakeholders
+
+Members :
+
+|Name|github|email|
+|:---------------------|:------------------:|-------------------------------:|
+|Gabriel Ziegler|@gabrielziegler3|-|
+|Erick Giffoni|@ErickGiffoni|giffoni.erick@gmail.com|
+|Fernando Aguilar|@fernand0aguilar|-|
+|Davi Alves|@davialvb|-|
+
+Stakeholders :
+
+- Doctors in general
+- Patients in general
+
+***
 ## Kaggle dataset
 
 Content
