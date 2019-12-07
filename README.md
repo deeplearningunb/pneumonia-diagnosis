@@ -39,10 +39,10 @@ Members :
 
 |Name|github|email|
 |:---------------------|:------------------:|-------------------------------:|
-|Gabriel Ziegler|@gabrielziegler3|-|
+|Gabriel Ziegler|@gabrielziegler3|gabrielziegler3@gmail.com|
 |Erick Giffoni|@ErickGiffoni|giffoni.erick@gmail.com|
-|Fernando Aguilar|@fernand0aguilar|-|
-|Davi Alves|@davialvb|-|
+|Fernando Aguilar|@fernand0aguilar|fernando.aguilar@hotmail.com.br|
+|Davi Alves|@davialvb|davialvb@gmail.com|
 
 Stakeholders :
 
